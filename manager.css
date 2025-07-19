@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+     display:flex;
+    flex-direction:column;
+    justify-content: center;
+    
+}
+body{
+    text-align:center;
+    padding:50px;
+
+   
+}
+button{
+    background-color: deepskyblue;
+   
+
+}
+
